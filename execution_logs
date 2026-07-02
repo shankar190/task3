@@ -1,6 +1,15 @@
-un terraform validate
-  terraform validate
-  shell: /usr/bin/bash -e {0}
-  env:
-    TERRAFORM_CLI_PATH: /home/runner/work/_temp/9c72110a-66fc-4334-8747-30adaa8a7da3
-Success! The configuration is valid.
+Terraform Execution Logs
+
+Repository: task3
+
+Workflow Name: Terraform
+
+Execution Status:
+✓ Checkout Repository - Success
+✓ Setup Terraform - Success
+✓ Terraform Init - Success
+✓ Terraform Validate - Success
+✓ Terraform Plan - Success
+
+Result:
+Terraform workflow executed successfully without errors.
