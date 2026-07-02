@@ -1,0 +1,6 @@
+un terraform validate
+  terraform validate
+  shell: /usr/bin/bash -e {0}
+  env:
+    TERRAFORM_CLI_PATH: /home/runner/work/_temp/9c72110a-66fc-4334-8747-30adaa8a7da3
+Success! The configuration is valid.
